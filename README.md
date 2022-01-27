@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruan-de-Jager
-- 👀 I’m interested in anything to do using software and computers
+- 👀 I’m interested in anything to do with software and computers
 - 🌱 I’m currently trying to master python
 - 💞️ I’m looking to collaborate on basically anything
 - 📫 How to reach me rdejagerjnr@gmail.com
